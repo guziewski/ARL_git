@@ -7,7 +7,6 @@ import time
 #NOTE: ThermalData.py for the given material and crystaltype must have previously been run
 
 
-
 #Dump file from Shawn's GB (Output: id type x y z)
 dumpfile='InitialDumpfiles/twist__Cu__0_0_1__37.99_deg_GBE_1109.dump'
 
